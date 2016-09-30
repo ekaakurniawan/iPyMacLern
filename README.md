@@ -1,4 +1,4 @@
-<h1>iPyMaceLern</h1>
+<h1>iPyMacLern</h1>
 
 iPython notebook collection on Machine Learning algorithms.
 
