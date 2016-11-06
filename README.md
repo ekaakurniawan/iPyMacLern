@@ -8,7 +8,8 @@ iPython notebook collection on Machine Learning algorithms.
 
 * Neural Networks
   * [Perceptron](http://nbviewer.ipython.org/github/ekaakurniawan/iPyMacLern/blob/master/NNfML-W3/Perceptron.ipynb)
-  * [Backpropagation](http://nbviewer.ipython.org/github/ekaakurniawan/iPyMacLern/blob/master/ML-W4_5/Backpropagation.ipynb)
+  * [Backpropagation for Character Recognition](http://nbviewer.ipython.org/github/ekaakurniawan/iPyMacLern/blob/master/ML-W4_5/Backpropagation.ipynb)
+  * [Backpropagation for Word Representation](http://nbviewer.ipython.org/github/ekaakurniawan/iPyMacLern/blob/master/NNfML-W5/Backpropagation.ipynb)
 
 * Recommender Systems
   * [Collaborative Filtering](http://nbviewer.ipython.org/github/ekaakurniawan/iPyMacLern/blob/master/ML-W9/Collaborative%20Filtering.ipynb)
