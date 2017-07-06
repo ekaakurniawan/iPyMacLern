@@ -1,6 +1,4 @@
-# iPyMacLern
-
-_Machine Learning Algorithm Notebooks_
+Machine Learning Algorithm Notebooks
 
 * Linear Regression
   * [Linear Regression with One Variable](http://nbviewer.ipython.org/github/ekaakurniawan/iPyMacLern/blob/master/ML-W1/Linear%20Regression%20With%20One%20Variable.ipynb)
@@ -16,4 +14,3 @@ _Machine Learning Algorithm Notebooks_
 
 * Probabilistic Graphical Models
   * [Factor](http://nbviewer.ipython.org/github/ekaakurniawan/iPyMacLern/blob/master/PGM-W1/Factor.ipynb)
- 
