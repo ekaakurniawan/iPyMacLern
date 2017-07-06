@@ -1,6 +1,6 @@
-<h1>iPyMacLern</h1>
+# iPyMacLern
 
-iPython notebook collection on Machine Learning algorithms.
+_Machine Learning Algorithm Notebooks_
 
 * Linear Regression
   * [Linear Regression with One Variable](http://nbviewer.ipython.org/github/ekaakurniawan/iPyMacLern/blob/master/ML-W1/Linear%20Regression%20With%20One%20Variable.ipynb)
